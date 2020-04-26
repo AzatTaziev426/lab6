@@ -5,4 +5,5 @@
 Вариант № 6
 
 Найти точку максимума функции
-funct.png
+
+(https://github.com/AzatTaziev426/lab6/funct.png)
