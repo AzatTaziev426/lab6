@@ -6,4 +6,4 @@
 
 Найти точку максимума функции
 
-(https://github.com/AzatTaziev426/lab6/funct.png)
+(https://github.com/AzatTaziev426/lab6/blob/master/funct.png)
