@@ -96,7 +96,7 @@
 
 Начальный этап:
       
-   1.) задать ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/zopng) 
+   1.) задать ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/z0.png) 
       
    2.) выбрать шаг h равным 0.001
       
