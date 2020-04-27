@@ -28,7 +28,11 @@
 
       для ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/in.png)
       
-      1.фиксируем значения всех переменных кроме 
+      1. фиксируем значения всех переменных кроме ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/xi.png), получая одномерную функцию ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/fxi.png)
+      
+      2. проводим одномерную оптимизацию по переменной ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/xi.png), методом золотого сечения
+      
+      3. если выполен критерий останова, то возвращаем текущее значение ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/x1xn.png)
 
     
         
