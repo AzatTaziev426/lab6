@@ -1,7 +1,9 @@
 Лабораторная работа № 6. Безусловный экстремум.
 
 Выполнил студент группы 426
+
 Тазиев Азат Фаритович
+
 Вариант № 6
 
 Найти точку максимума функции
@@ -52,17 +54,17 @@
 
 Описание метода 
 
-1. ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/x1x2ab.png)
+1). ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/x1x2ab.png)
 
-2. Повторять:
+2). Повторять:
       
-      3. Если ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/f1f2.png), то ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/a=x1.png);
+   3). Если ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/f1f2.png), то ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/a=x1.png);
       
-      4. Если ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/f2f1.png), то ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/b=x2.png);
+   4). Если ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/f2f1.png), то ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/b=x2.png);
       
-5. пока ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/b-aE.png)
+5). пока ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/b-aE.png)
 
-6. ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/xab.png)
+6). ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/xab.png)
 
 Анализ метода
 
