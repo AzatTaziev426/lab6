@@ -15,5 +15,18 @@
 Теоретическая часть
 
 Метод покоординатного спуска
+
 Алгоритм
-Вход: функция 
+
+Вход: функция ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/FR.png)
+
+Выход: найдена точка максимума X
+
+1. Инициализация некоторым значением  ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/x0.png)
+
+2. повторять:
+
+      для ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/in.png)
+
+    
+        
