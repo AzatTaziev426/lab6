@@ -113,3 +113,14 @@
             
 Практическая часть
 
+Функция в которой описан метод Свенна и метод золотого сечения для первой переменной:
+
+![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/zol1dlax1.png)
+
+Функция в которой описан метод Свенна и метод золотого сечения для второй переменной:
+
+![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/zol1dlax2.png)
+
+Метод покоординатного спуска
+
+![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/koorspusk.png)
