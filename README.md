@@ -124,3 +124,7 @@
 Метод покоординатного спуска
 
 ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/koorspusk.png)
+
+Заданная функция 
+
+![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/funct1.png)
