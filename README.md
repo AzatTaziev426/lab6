@@ -111,4 +111,5 @@
             Установить начальный интервал локализации минимума ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/a1xn-2.png)
             
             
-  
+Практическая часть
+
