@@ -27,6 +27,8 @@
 2. повторять:
 
       для ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/in.png)
+      
+      1.фиксируем значения всех переменных кроме 
 
     
         
