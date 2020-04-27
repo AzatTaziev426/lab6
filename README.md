@@ -50,3 +50,42 @@
 
 В качестве ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/x1.png) и ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/x2.png)  выберем точку золотого сечения отрезка и симметричную ей. Если ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/x1x2.png), то при указанном выборе точек получаем, что ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/x1.png) точка золотого сечения отрезка ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/ax2.png), а ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/x2.png) - точка золотого сечения отрезка ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/x1b.png). Таким образом, на каждом шаге, кроме первого, необходимо вычислять значение только в одной точке, вторая берется из предыдущего шага. 
 
+Описание метода 
+
+1. ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/x1x2ab.png)
+
+2. Повторять:
+      
+      3. Если ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/f1f2.png), то ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/a=x1.png);
+      
+      4. Если ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/f2f1.png), то ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/b=x2.png);
+      
+5. пока ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/b-aE.png)
+
+6. ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/xab.png)
+
+Анализ метода
+
+Считаем, что один шаг - это один этап цикла ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/lam.png). Тогда, считая длину отрезка на каждом шаге ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/trek.png), получаем:
+      
+   ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/tre0.png);
+   
+   ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/tre1.png);
+   
+   ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/tre2.png);
+   
+Нетрудно проверить, что
+      
+   ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/trek1.png) - числа Фибонначчи.
+   
+С другой стороны, выполняется равенство:
+
+   ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/trek2.png)
+   
+Чтобы погрешность вычисления была менее ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/E.png), должна по крайней мере выполняться оценка на число шагов:  
+
+   ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/k1.png)
+   
+Тогда значение будет вычисляться в ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/Nk1.png) точках.
+      
+      
