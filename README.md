@@ -68,7 +68,11 @@
 
 Анализ метода
 
-Считаем, что один шаг - это один этап цикла ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/lam.png). Тогда, считая длину отрезка на каждом шаге ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/trek.png), получаем:
+Считаем, что один шаг - это один этап цикла 
+
+![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/lam.png). Тогда, считая длину отрезка на каждом шаге !
+
+[Image alt](https://github.com/AzatTaziev426/lab6/blob/master/trek.png), получаем:
       
    ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/tre0.png);
    
