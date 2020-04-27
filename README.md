@@ -72,11 +72,11 @@
 
 ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/lam.png). Тогда, считая длину отрезка на каждом шаге ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/trek.png), получаем:
       
-   ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/tre0.png);
+   ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/tre0.png)
    
-   ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/tre1.png);
+   ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/tre1.png)
    
-   ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/tre2.png);
+   ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/tre2.png)
    
 Нетрудно проверить, что
       
