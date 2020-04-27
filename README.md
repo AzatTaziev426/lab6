@@ -44,3 +44,9 @@
 
 Здесь ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/xkrn.png) - значение, полученное после ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/k.png) -го шага оптимизации. ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/E.png) - наперед заданное положительное число. 
         
+Метод золотого сечения 
+
+Определение: Говорят, что точка ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/x.png) осуществляет золотое сечение отрезка ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/ab.png),если ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/zol1.png)
+
+В качестве ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/x1.png) и ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/x2.png)  выберем точку золотого сечения отрезка и симметричную ей. Если ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/x1x2.png), то при указанном выборе точек получаем, что ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/x1.png) точка золотого сечения отрезка ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/ax1.png), а ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/ax2.png) - точка золотого сечения отрезка ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/x1b.png). Таким образом, на каждом шаге, кроме первого, необходимо вычислять значение только в одной точке, вторая берется из предыдущего шага. 
+
