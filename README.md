@@ -105,10 +105,10 @@
             Установить направление убывания целевой функции. Для этого надо взять ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/x2x1h.png). Если f1 < f2, то надо поменять направление движения h = -h.
      
    Шаг 2: 
-            Вычислять ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/fk.png) в точках ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/x1k.png), где ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/fk123.png) до тех пор пока не придем в точку ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/xn.png) такую что ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/fnfn-1.png).
+            Вычислять ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/fk.png) в точках ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/x1k.png), где ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/fk123.png) до тех пор пока не придем в точку xn такую что ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/fnfn-1.png).
      
    Шаг 3: 
-            Установить начальный интервал локализации минимума ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/a1xn2.png)
+            Установить начальный интервал локализации минимума ![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/a1xn-2.png)
             
             
   
