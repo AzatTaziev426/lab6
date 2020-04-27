@@ -143,4 +143,4 @@
 
 График окрестности точки максимума построить линии уровня и траекторию поиска 
 
-![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/Figure1.png)
+![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/Figure_1.png)
