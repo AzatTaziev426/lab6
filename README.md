@@ -119,7 +119,7 @@
 
 Функция в которой описан метод Свенна и метод золотого сечения для второй переменной:
 
-![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/zol1dlax2.png)
+![Image alt](https://github.com/AzatTaziev426/lab6/blob/master/zol2dlax2.png)
 
 Метод покоординатного спуска
 
